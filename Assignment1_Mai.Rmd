@@ -1,0 +1,60 @@
+---
+title: 'Assignment 1'
+author: "Data Science for Biomedical Informatics (BMIN503/EPID600)"
+output:
+  html_document:
+    toc: false 
+    depth: 3 
+    theme: paper 
+    highlight: tango
+---
+    
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 400)
+```    
+***
+
+###Instructions
+- Download the Rmd version of this file
+- Complete the questions below in RStudio using the Rmd file as a template 
+- Replace text in brackets with your answers. (There is no need to keep the brackets).
+- Save the Rmd document as Assignment1_*YOUR LAST NAME*.Rmd
+- Create an HTML version using knitr
+- Turn in completed Assignment1_*YOUR LAST NAME*.html file in Canvas under Assignments -> Assignment 1
+- Your assignment **must** be in html format or it will not be graded
+- Grades will be assigned according to point scheme below and computed as a percentage of total possible points
+- Lateness policy: If an urgent and unforseen circumstance comes up and you need an extension to turn in an assignment, please contact Blanca and/or Ryan as soon as possible. Unless there is an arrangement in place, late assignments will be scored as follows: 
+    - 25% of total score if 1 day late
+    - 50% of total score if 2 days late
+    - 75%  of total score if 3 days late
+    - Assignment will not be graded if 4 or more days late
+- DUE DATE: 9/5/17 11:59pm
+
+
+###Questions
+1) Provide your name. *(1 point)* 
+
+    Mark, Mai
+
+2) Provide the graduate or educational program at Penn that you are part of. *(1 point)* 
+
+    CHOP Clinical Informatics Fellowship
+
+3) Describe what research topic(s) interest you using 2-3 sentences. *(2 points)* 
+
+    I am interested in using Natural Language Processing and text mining to identify patients potentially eligible for clinical pathways.  In addition, I am interested in identifying and defining metrics for physician efficiency. 
+
+4) What are you most interested in learning during this course? *(2 points)* 
+
+    I am most interested in learning machine learning and efficient munging techniques.
+
+5) Provide a direct link in your html file to your GitHub account, such that clicking on your GitHub username will result in opening of your GitHub account. *(2 points)* 
+
+    [markmaiwords](https://github.com/markmaiwords)
+
+
+
+
+
+
+
